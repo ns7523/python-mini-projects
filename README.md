@@ -1,51 +1,42 @@
 <div align="center">
-  <br />
-  <img src="https://via.placeholder.com/120x120/0a0a0a/ffffff?text=Py+Mini" alt="Python Mini Projects Icon" />
-  <br />
 
-  <h1 align="center">Python Mini Projects</h1>
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python Icon" width="80" />
 
-  <p align="center">
-    <strong>A collection of utility scripts, algorithmic prototypes, and experimental Python modules.</strong>
-  </p>
+# Advance Python Projects
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Language-Python-black?style=flat-square&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/Environment-Jupyter-orange?style=flat-square&logo=jupyter" alt="Jupyter">
-  </p>
+**A collection of scripts, applications, and web tools built with Python.**
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Framework-Flask-black?style=flat-square&logo=flask&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
+
 </div>
 
-<br />
+---
 
-## Overview
+## 🎯 Project Overview
 
-This repository acts as a centralized sandbox for various Python-based algorithms, data processing scripts, and automation utilities. It serves as an experimental playground for testing new libraries, benchmarking logic, and building modular tools before they are integrated into larger architectural systems.
+This repository contains advanced Python mini-projects covering web scraping, API integrations, data processing, and backend development. 
 
-### Contents
+## 🚀 Projects Included
 
-The repository contains a variety of `.ipynb` and `.py` files spanning multiple domains:
-- **Data Manipulation**: Pandas and NumPy workflow optimizations.
-- **Algorithmic Implementations**: Core computer science logic and sorting mechanisms.
-- **Automation Utilities**: OS-level scripting and API interactions.
+| Project | Description / Technologies |
+| :--- | :--- |
+| **Speech To Text** | Uses Flask and the Google Speech Recognition API. |
+| **Company Profile Finder** | CLI app using a financial modeling API, Pandas, and Replit. |
+| **Weather Finder Dashboard** | Built with the OpenWeather API, Requests module, and Flask. |
+| **Automate Weather Report** | Automated reporting scripts in Python. |
+| **GitHub Repo Scraping** | Web scraping utilizing BeautifulSoup, Requests, and Pandas. |
+| **NASA Image API Project** | Application fetching images directly from the NASA API. |
+| **YouTube Trending Videos Scraping** | Script for extracting trending YouTube data. |
+| **Reddit API** | Interaction and data extraction with the Reddit API. |
+| **Stock API** | Financial market data extraction. |
+| **Stock Finder App** | Application for searching and analyzing stocks. |
+| **Wordle Game** | Python-based implementation of the popular Wordle game. |
+| **RestAPI** | Implementation of a backend REST architecture. |
 
-<br />
-
-## Usage
-
-Each project is contained within its own isolated cell block or file.
-
-```bash
-# Clone the repository
-git clone https://github.com/ns7523/python-mini-projects.git
-cd python-mini-projects
-
-# Access via Jupyter
-jupyter notebook
-```
-
-<br />
+---
 
 <div align="center">
-  <br />
   <sub>Maintained by <a href="https://github.com/ns7523">N S AKASH</a></sub>
 </div>
